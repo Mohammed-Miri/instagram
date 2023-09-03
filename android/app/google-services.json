@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927211477502",
+    "project_id": "instagram-d6cba",
+    "storage_bucket": "instagram-d6cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927211477502:android:334371d164eabd199d88af",
+        "android_client_info": {
+          "package_name": "com.isnta.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927211477502-1vd3fek9cjcv5he6on3meemm3g82mbvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isnta.instagram",
+            "certificate_hash": "9eb80b81e00b2122982c73671b772d6b3d16e2b8"
+          }
+        },
+        {
+          "client_id": "927211477502-89q9dsorcepgmb46hc0mqpnk4fkm7t6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsh-QMOik6E9AXlHFYYpxZ068dfUEN8-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927211477502-89q9dsorcepgmb46hc0mqpnk4fkm7t6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
